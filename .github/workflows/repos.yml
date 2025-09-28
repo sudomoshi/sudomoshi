@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.repositories.svg
+          filename: repositories.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
           base: ""
