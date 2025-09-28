@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ffff" alt="header">
-</div>
-
 [<img align="left" width="400" alt="Metrics" src="/about.svg">](#)
 
 <div align="center">
