@@ -1,6 +1,6 @@
 [<img align="left" width="400" alt="Metrics" src="/about.svg">](#)
 
-<div align="left">
+<div align="right">
   <img src="https://24.media.tumblr.com/753a02a78d85eb0474c244e29746913a/tumblr_mm4riaDwBF1rfjowdo1_500.gif" alt="art">
 </div>
 
