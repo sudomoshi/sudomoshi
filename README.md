@@ -4,5 +4,3 @@
 [<img align="right" width="400" alt="Calendar" src="/isocalendar.svg">](#)
 [<img align="right" width="400" alt="Repositories" src="/repositories.svg">](#)
 [<img align="right" width="400" alt="Languages" src="/languages.svg">](#)
-
-[<img width="100%" height="1" alt="spacer" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
