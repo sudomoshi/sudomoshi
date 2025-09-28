@@ -1,4 +1,4 @@
-<table>
+<table style="border: none; border-collapse: collapse;">
 <tr>
 <td width="50%" valign="top">
 <img src="/about.svg" alt="Metrics" width="100%">
