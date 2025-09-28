@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ffff" alt="header">
+</div>
 
-<!--
-**sudomoshi/sudomoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" width="400" alt="Metrics" src="/about.svg">](#)
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://24.media.tumblr.com/753a02a78d85eb0474c244e29746913a/tumblr_mm4riaDwBF1rfjowdo1_500.gif" alt="art">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="right" width="500" alt="Calendar" src="/isocalendar.svg">](#)
+[<img align="right" width="500" alt="Repositories" src="/repositories.svg">](#)
+[<img align="right" width="500" alt="Languages" src="/languages.svg">](#)
+
+<div align="left">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" alt="cpp">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg" alt="csharp">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" alt="html">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="javascript">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="python">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="css">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare1.svg" alt="cloudflare">
+</div>
